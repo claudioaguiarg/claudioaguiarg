@@ -1,4 +1,3 @@
-<img align="right" height="500em" src="https://raw.githubusercontent.com/gist/claudioaguiarg/623f494865f4ec67f4ea30e42bb31d4b/raw/3f6810347dd3fb6955e172da43661867ae3e2da4/card.svg"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Cláudio Aguiar</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=claudioaguiarg&color=blueviolet" alt="Profile views" /> </p>
 
@@ -18,8 +17,6 @@
 <br><br>
 ## ⚙️ &nbsp;GitHub Analytics
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=claudioaguiarg&show_icons=true&theme=vision-friendly-dark" alt="claudioaguiarg's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudioaguiarg&layout=compact&theme=vision-friendly-dark" alt="claudioaguiarg's most languages"/>
 </p>
 
 <br><br>
