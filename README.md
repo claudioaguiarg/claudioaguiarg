@@ -3,7 +3,7 @@
 
 - 🔥 Studying python everyday.
 
-- 💬 Ask me about **Python** - **SQL** - **ML** - **Data Analysis & Science** - **IA** - **C#** - ##C++##<img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+- 💬 Ask me about **Python** - **SQL** - **ML** - **Data Analysis & Science** - **IA** - **C#** - **C++**<img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
 - ⚡ Fun fact **Two fingers 👆👆**
 <br>
