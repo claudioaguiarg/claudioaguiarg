@@ -15,12 +15,13 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-<br><br>
-## ⚙️ &nbsp;GitHub Analytics
-<p align="left">
-</p>
+![C#](	https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)&nbsp;
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)&nbsp;
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flet&logo=Tableau&logoColor=white)&nbsp;
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flet&logo=tensorflow&logoColor=white)&nbsp;
+![Oracle Cloud](https://img.shields.io/badge/Oracle-F80000?style=flet&logo=oracle&logoColor=black)&nbsp;
+![DataBricks](https://img.shields.io/badge/Databricks-FF3621?style=flet&logo=Databricks&logoColor=white)&nbsp;
 
-<br><br>
 
 ## Contact
 
